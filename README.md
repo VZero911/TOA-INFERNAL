@@ -4,9 +4,15 @@
   <img src="https://img.shields.io/badge/Dark%20Fantasy-Game-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Game" />
 </p>
 
+<h1 align="center">TOA — Infernal</h1>
 <p align="center"><b>Dark Fantasy Game Project</b></p>
 
 <p align="center"><code>ANTI-NETRUNNER</code> — Source integrity hashing prevents automated AI scraping and unauthorized code replication. Full source available on request with identity verification.</p>
+
+<p align="center">
+  <img src="screenshots/toa-portal.png" alt="TOA Infernal — Dark Fantasy Portal" width="860" />
+</p>
+<p align="center"><sub>The Infernal Portal — gateway to the arenas</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Backend-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=07060f" />
