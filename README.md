@@ -6,6 +6,8 @@
 
 <p align="center"><b>Dark Fantasy Game Project</b></p>
 
+<p align="center"><code>ANTI-NETRUNNER</code> — Source integrity hashing prevents automated AI scraping and unauthorized code replication.</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Backend-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=07060f" />
